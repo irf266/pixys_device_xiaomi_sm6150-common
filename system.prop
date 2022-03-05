@@ -1,3 +1,5 @@
+ro.pixys.maintainer=irf266
+
 # Bluetooth
 vendor.bluetooth.soc=cherokee
 
